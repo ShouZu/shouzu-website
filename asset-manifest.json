@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shouzu-website/static/css/main.6c81966b.css",
+    "main.js": "/shouzu-website/static/js/main.8a80ee21.js",
+    "static/media/GenSenRounded-M.ttc": "/shouzu-website/static/media/GenSenRounded-M.e59525b4eb7c619bfcdf.ttc",
+    "static/media/GenSenRounded-R.ttc": "/shouzu-website/static/media/GenSenRounded-R.4d8dac3fd27444ed2563.ttc",
+    "index.html": "/shouzu-website/index.html",
+    "main.6c81966b.css.map": "/shouzu-website/static/css/main.6c81966b.css.map",
+    "main.8a80ee21.js.map": "/shouzu-website/static/js/main.8a80ee21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c81966b.css",
+    "static/js/main.8a80ee21.js"
+  ]
+}
